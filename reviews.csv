@@ -1,0 +1,52 @@
+text,sentiment
+यह मोबाइल बहुत अच्छा है,Positive
+यह फोन बहुत खराब है,Negative
+Delivery was excellent,Positive
+Delivery was late,Negative
+ಈ ಮೊಬೈಲ್ ತುಂಬಾ ಉತ್ತಮವಾಗಿದೆ,Positive
+ಈ ಸೇವೆ ತುಂಬಾ ಕೆಟ್ಟದು,Negative
+The product quality is very good,Positive
+The service is terrible,Negative
+फोन का कैमरा शानदार है,Positive
+फोन का कैमरा खराब है,Negative
+The battery lasts long,Positive
+Battery drains quickly,Negative
+ಅಸಮರ್ಪಕ ಸೇವೆ,Negative
+ಉತ್ತಮ ಗುಣಮಟ್ಟ,Positive
+Good packaging,Positive
+Bad packaging,Negative
+Support team was helpful,Positive
+Support team was rude,Negative
+Website is easy to navigate,Positive
+Website is confusing,Negative
+Phone is value for money,Positive
+Phone is overpriced,Negative
+ಶಿಪ್ಪಿಂಗ್ ವಿಳಂಬ,Negative
+ಉತ್ತಮ ಸೇವೆ,Positive
+Product arrived early,Positive
+Product arrived late,Negative
+Excellent customer service,Positive
+Poor customer service,Negative
+High-quality accessories,Positive
+Low-quality accessories,Negative
+फोन का डिस्प्ले बहुत साफ है,Positive
+फोन का डिस्प्ले धुंधला है,Negative
+Fast delivery,Positive
+Slow delivery,Negative
+Amazing performance,Positive
+Performance is disappointing,Negative
+Great user interface,Positive
+Confusing interface,Negative
+Very satisfied with the purchase,Positive
+Not satisfied with the purchase,Negative
+Product is durable,Positive
+Product broke quickly,Negative
+सस्ता और अच्छा,Positive
+महंगा और बेकार,Negative
+ನನ್ನ ಅನುಭವ ಅತ್ಯುತ್ತಮವಾಗಿದೆ,Positive
+ಸೇವೆಯು ಹತ್ತಿರವಿಲ್ಲ,Negative
+Reliable product,Positive
+Unreliable product,Negative
+Smooth transaction,Positive
+Payment failed,Negative
+
