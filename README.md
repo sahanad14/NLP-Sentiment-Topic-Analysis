@@ -45,12 +45,19 @@ NLP_Sentiment_Topic_Analysis/
 ### ✔ Sentiment Analysis
 - Predicts whether a review is **Positive** or **Negative**
 - Displays accuracy, precision, recall, and F1-score
+  <img width="600" height="400" alt="Sentiment_Distribution" src="https://github.com/user-attachments/assets/198b6b45-ae7e-46c9-b3a1-55ae0ab1f2e3" />
+
 
 ### ✔ Topic Modeling
 - Extracts major themes discussed in the reviews
 
 ### ✔ Visualization
 - Generates WordCloud to highlight frequent keywords
+  <img width="500" height="400" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/e453e537-4ffe-4efe-8ecb-c780424285cb" />
+<img width="800" height="400" alt="topic1_word_cloud" src="https://github.com/user-attachments/assets/dad1a438-9aee-45b3-80b7-0dc6760e1a07" />
+<img width="800" height="400" alt="topic2_word_cloud" src="https://github.com/user-attachments/assets/22dce7e5-e258-4e17-8e66-3ad123770492" />
+<img width="800" height="400" alt="topic3_word_cloud" src="https://github.com/user-attachments/assets/98805d4f-f676-4756-bc10-8b10eb5ac92a" />
+
 
 ---
 
@@ -93,16 +100,3 @@ GitHub: https://github.com/sahanad14
 ⭐ If you like this project, please give it a star!
 
 
----
-
-## ✅ What you do next (VERY IMPORTANT)
-1. Open **README.md** in VS Code or Notepad  
-2. **Delete everything**
-3. **Paste the above content**
-4. Save file
-5. Run these commands:
-
-```powershell
-git add README.md
-git commit -m "Update README documentation"
-git push
